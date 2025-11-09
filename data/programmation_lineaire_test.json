@@ -1,0 +1,8 @@
+{
+    "objectif": {"x": 3, "y": 2},
+    "contraintes": [
+        {"expression": {"x": 2, "y": 1}, "signe": "<=", "valeur": 100},
+        {"expression": {"x": 1, "y": 1}, "signe": "<=", "valeur": 80}
+    ],
+    "mode": "max"
+}

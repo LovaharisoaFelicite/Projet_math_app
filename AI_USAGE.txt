@@ -1,0 +1,15 @@
+#RAMIADAMANANA Lovaharisoa Félicité_FI2301-133
+
+Fichier : core/regression_lineaire.py
+- La fonction perform_regression a été générée avec l'aide de Copilot.
+- Suggestion d'utilisation de sklearn.linear_model.LinearRegression par IA.
+
+Fichier : core/processus_stochastique.py
+- La fonction simulate_markov_chain a été générée avec l'aide de ChatGPT.
+- Utilisation de numpy.random.choice() proposée par IA.
+
+Fichier : ui/main_window.py
+- La structure de l'interface graphique avec PyQt5 (création des onglets et boutons) a été partiellement assistée par Copilot.
+- Les méthodes de liaison entre boutons et fonctions ont été générées avec l'aide de Copilot.
+
+Note : L'ensemble du code assisté par IA représente environ 18 % du projet, respectant la limite de 20 % imposée.
